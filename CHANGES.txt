@@ -1,8 +1,0 @@
-=================== Release 0.1 XX/XX/XXXX =====================
-Description
-    --
-Functions:
-    --
-Changes
-    -- XX/XX/XXXX
-        *
